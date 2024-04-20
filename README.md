@@ -1,4 +1,4 @@
-# Our Test Plugin
+# Post Statistics
 
 ## Description
 
@@ -6,7 +6,7 @@ Our Test Plugin is a WordPress plugin that provides post statistics such as word
 
 ## Installation
 
-1. Download the plugin ZIP file from the [releases page](#).
+1. Download the plugin ZIP file.
 2. Log in to your WordPress admin panel.
 3. Navigate to Plugins > Add New.
 4. Click on the "Upload Plugin" button, then select the ZIP file you downloaded.
