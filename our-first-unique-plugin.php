@@ -4,7 +4,7 @@
     Plugin Name: Our Test Plugin
     Description: A truly amazing plugin.
     Version: 1.0
-    Author: Brad
+    Author: Devang
     Author URI: www.devalphaing.com
     Text Domain: wcpdomain
     Domain Path: /languages
